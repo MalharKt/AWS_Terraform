@@ -1,0 +1,4 @@
+{
+  "body": "{\"name\":\"Lambda Test\",\"email\":\"malharkauthale2019@gmail.com\",\"mobile\":\"9999999999\",\"course\":\"DevOps\",\"message\":\"Hello from Lambda\"}",
+  "requestContext": { "http": { "method": "POST" } }
+}
