@@ -5,4 +5,4 @@ terraform.tfvars
 *.tfstate.backup
 .terraform/
 .terraform.lock.hcl
-.mp4
+*.mp4
