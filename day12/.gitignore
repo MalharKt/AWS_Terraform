@@ -3,9 +3,5 @@ terraform.tfvars
 *.tfvars.json
 *.tfstate
 *.tfstate.backup
+.terraform.lock.hcl
 .terraform/
-<<<<<<< HEAD
-.terraform.lock.hcl
-=======
-.terraform.lock.hcl
->>>>>>> 7fb19ac (added day11)
