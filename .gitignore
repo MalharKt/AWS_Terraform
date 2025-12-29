@@ -1,2 +1,9 @@
 day11/my-app/src/assets/video/*.mp4
 *.mp4
+.terraform*
+terraform.tfvars
+*.tfvars.json
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
